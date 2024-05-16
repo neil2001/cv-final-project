@@ -1,0 +1,7 @@
+nyuv2_dataset/*
+!nyuv2_dataset/.gitkeep
+tmp/*
+!tmp/.gitkeep
+output/*
+!output/.gitkeep
+
